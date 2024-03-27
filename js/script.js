@@ -2,7 +2,7 @@
 
 const { createApp } = Vue;
 
-createApp({
+const testo = createApp({
     data() {
         return {
             message: '',
