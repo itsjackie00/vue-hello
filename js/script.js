@@ -8,6 +8,7 @@ const testo = createApp({
             message: '',
             image: 'https://picsum.photos/300/200',
             altimage: 'random image',
+            myclass: 'purple',
         }
 
     },
